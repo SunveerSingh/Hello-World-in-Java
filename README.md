@@ -1,2 +1,2 @@
 # Hello-World-in-Java
-Just for fun
+System.out.println("Hello World");
